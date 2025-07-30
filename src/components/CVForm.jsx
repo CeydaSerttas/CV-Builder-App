@@ -1,4 +1,3 @@
-// src/components/CVForm.jsx
 import React from "react";
 
 export default function CVForm({ cvData, setCvData }) {

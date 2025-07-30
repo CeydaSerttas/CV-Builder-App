@@ -1,5 +1,4 @@
 import React, { forwardRef } from "react";
-
 const CVPreview = forwardRef(({ cvData }, ref) => {
   const { personal, education, experience, skills } = cvData;
 
