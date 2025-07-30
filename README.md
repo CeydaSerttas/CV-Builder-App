@@ -16,7 +16,7 @@ Ready to build your magical CV? Follow these simple steps:
 Clone the repository:
 
 Bash
-git clone https://github.com/kullaniciadi/cv-builder.git
+git clone (https://github.com/CeydaSerttas/CV-Builder-App.git)
 Navigate to the project directory:
 
 Bash
